@@ -1,0 +1,1 @@
+KERNEL=="sdb",  RUN+="/bin/device_added.sh"
