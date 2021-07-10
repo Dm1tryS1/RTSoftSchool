@@ -1,7 +1,5 @@
 !1!ss2019.Dockerfile
 1. docker build -t ss2019 .
-///////////////////////////////////
-
 
 
 !2! Dockerfile
